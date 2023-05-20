@@ -1,1 +1,1 @@
-# funciones
+# partes brazo robotico
